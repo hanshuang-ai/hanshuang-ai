@@ -18,6 +18,7 @@
 | [api-ops](https://github.com/hanshuang-ai/api-ops) | AI Ops 运营平台（客户端 / 服务端） | `ai-ops` `web-app` `tinnove` |
 | [knowledge-base](https://github.com/hanshuang-ai/knowledge-base) | 知识库应用（客户端 / 服务端） | `knowledge-base` `web-app` `tinnove` |
 | [software-factory](https://github.com/hanshuang-ai/software-factory) | AI 软件工厂（GitLab 项目同步 / spec 扫描 / 任务执行） | `software-factory` `ai-coding` `automation` |
+| [save-tokens](https://github.com/hanshuang-ai/save-tokens) | Save tokens 仓库 | `ai-coding` `plugin-marketplace` `wutong` |
 
 ## 📒 Obsidian 插件
 
@@ -44,4 +45,4 @@
 
 ---
 
-<sub>共 14 个自有仓库 · 自动按用途分组 · Topics 可在仓库页点击筛选</sub>
+<sub>共 15 个自有仓库 · 自动按用途分组 · Topics 可在仓库页点击筛选</sub>
