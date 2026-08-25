@@ -13,7 +13,7 @@
 | 仓库 | 说明 | Topics |
 |------|------|--------|
 | [SDKCollection](https://github.com/hanshuang-ai/SDKCollection) | TinnoveCode AI 编程助手主框架（Web / 服务端 / Electron / 核心库） | `ai-coding` `code-assistant` `plugin-market` `tinnove` |
-| [code-change-guard](https://github.com/hanshuang-ai/code-change-guard) | 跨工具代码改动守卫：复用扫描 + 影响分析 + 询问确认 + 项目记忆（DSH / Claude Code / Codex / CodeBuddy / WorkBuddy） | i-coding code-review claude-code codex skill |
+| [code-change-guard](https://github.com/hanshuang-ai/code-change-guard) | 跨工具代码改动守卫：复用扫描 + 影响分析 + 询问确认 + 项目记忆（DSH / Claude Code / Codex / CodeBuddy / WorkBuddy） | `ai-coding` `code-review` `claude-code` `codex` `skill` |
 | [pluginmarket](https://github.com/hanshuang-ai/pluginmarket) | Claude 插件市场前端（Vue3 + Vite） | `plugin-market` `claude` `frontend` |
 | [APMpluginmarket](https://github.com/hanshuang-ai/APMpluginmarket) | APM 插件市场平台（后端 / 前端 / apm-cli） | `plugin-market` `ai-coding` `tinnove` |
 | [api-ops](https://github.com/hanshuang-ai/api-ops) | AI Ops 运营平台（客户端 / 服务端） | `ai-ops` `web-app` `tinnove` |
