@@ -25,6 +25,7 @@
 | 仓库 | 说明 | Topics |
 |------|------|--------|
 | [code-change-guard](https://github.com/hanshuang-ai/code-change-guard) | 跨工具代码改动守卫：复用扫描 + 影响分析 + 询问确认 + 项目记忆（DSH / Claude Code / Codex / CodeBuddy / WorkBuddy） | `ai-coding` `code-review` `claude-code` `codex` `skill` |
+| [saveToken](https://github.com/hanshuang-ai/saveToken) | 通用 token 节省插件 —— 内容感知核心 + 可插拔适配器 | `ai-coding` `token-saving` `mcp` `bun` |
 
 ## 📒 Obsidian 插件
 
@@ -51,4 +52,4 @@
 
 ---
 
-<sub>共 16 个自有仓库 · 自动按用途分组 · Topics 可在仓库页点击筛选</sub>
+<sub>共 17 个自有仓库 · 自动按用途分组 · Topics 可在仓库页点击筛选</sub>
