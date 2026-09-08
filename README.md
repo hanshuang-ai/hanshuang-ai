@@ -20,7 +20,7 @@
 | [software-factory](https://github.com/hanshuang-ai/software-factory) | AI 软件工厂（GitLab 项目同步 / spec 扫描 / 任务执行） | `software-factory` `ai-coding` `automation` |
 | [save-tokens](https://github.com/hanshuang-ai/save-tokens) | Save tokens 仓库 | `ai-coding` `plugin-marketplace` `wutong` |
 
-## 🚀 AI 编程工具（个人 / 开源）
+## 🚀 AI 编程工具（个人）
 
 | 仓库 | 说明 | Topics |
 |------|------|--------|
