@@ -26,6 +26,7 @@
 |------|------|--------|
 | [code-change-guard](https://github.com/hanshuang-ai/code-change-guard) | 跨工具代码改动守卫：复用扫描 + 影响分析 + 询问确认 + 项目记忆（DSH / Claude Code / Codex / CodeBuddy / WorkBuddy） | `ai-coding` `code-review` `claude-code` `codex` `skill` |
 | [saveToken](https://github.com/hanshuang-ai/saveToken) | 通用 token 节省插件 —— 内容感知核心 + 可插拔适配器 | `ai-coding` `token-saving` `mcp` `bun` |
+| [relay-dsh-plugin-codebuddy](https://github.com/hanshuang-ai/relay-dsh-plugin-codebuddy) | CodeBuddy relay 插件 —— 通过 ACP 将 DeepSeek Harness 对话路由至 CodeBuddy | `ai-coding` `codebuddy` `acp` `relay` |
 
 ## 📒 Obsidian 插件
 
